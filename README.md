@@ -1,12 +1,12 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nir Katz</h1>
-<h3 align="center">A passionate frontend developer from Israel</h3>
+<h3 align="center">A passionate fullstack developer from Israel</h3>
 <img align = "right" alt = "Coding" width = "400" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🌱 I’m currently learning **React**
+- 🌱 Learning **backend** development with Java and Python to build powerful applications
 
 - 👨‍💻 All of my projects are available at [https://github.com/knir44/](https://github.com/knir44/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Spring boot**
 
 - 📫 How to reach me **knir44@gmail.com**
 
