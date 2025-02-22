@@ -1,4 +1,4 @@
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTB4eDVqMjcwMHJkcnV0MzFoY2VoZWZxajFqMmdnaDJ2bjN5NzlxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="1600" height="400">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTB4eDVqMjcwMHJkcnV0MzFoY2VoZWZxajFqMmdnaDJ2bjN5NzlxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="1600" height="500">
 
 
 <h1 align="center">Hi 👋, I'm Nir Katz</h1>
