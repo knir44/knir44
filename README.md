@@ -1,6 +1,7 @@
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGU0cG1zaWR3NW96MWFreXZmcXMwcWU0cXJjbWR0Y2hrZzlteTl1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="1600" height="600">
 
 
+
 <h1 align="center">Hi 👋, I'm Nir Katz</h1>
 <h3 align="center">A passionate fullstack developer from Israel</h3>
 <img align = "right" alt = "Coding" width = "400" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
