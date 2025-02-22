@@ -1,4 +1,3 @@
-[![MasterHead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNuamhlZGRsOTNzc2JleGVicGsxYW1sZXdnYzRhMHAzbnNhbzJkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)](https://rishavchanda.io)
 
 
 
