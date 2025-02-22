@@ -1,4 +1,4 @@
-[![MasterHead](![image](https://github.com/user-attachments/assets/f387a4da-a361-4441-97e1-71a327d7d87a)
+[![MasterHead](![image]([https://github.com/user-attachments/assets/f387a4da-a361-4441-97e1-71a327d7d87a](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzk3dTM0bDR1Y3F1b3liaWozemR6dG54Ym92ZGdnOHFlYzdvem5sMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif))
 )](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nir Katz</h1>
 <h3 align="center">A passionate fullstack developer from Israel</h3>
